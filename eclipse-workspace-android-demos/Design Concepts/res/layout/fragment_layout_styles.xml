@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textViewSmall"
+        style="@style/Text.Small"
+        android:text="Small Text, The quick brown fox jumps over the little green android"/>
+    <TextView
+        android:id="@+id/textViewMedium"
+        style="@style/Text.Medium"
+        android:text="Medium Text, The quick brown fox jumps over the little green android"/>
+    <TextView
+        android:id="@+id/textViewLarge"
+        style="@style/Text.Large"
+        android:text="Large Text, The quick brown fox jumps over the little green android"/>
+    <TextView
+        android:id="@+id/textViewXLarge"
+        style="@style/Text.XLarge"
+        android:text="Extra Large Text, The quick brown fox jumps over the little green android"/>
+
+
+</LinearLayout>

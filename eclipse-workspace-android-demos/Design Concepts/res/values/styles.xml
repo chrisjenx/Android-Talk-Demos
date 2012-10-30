@@ -1,0 +1,31 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="AppTheme" parent="android:Theme.Light" />
+
+    <style name="Text" parent="@android:style/Widget.TextView">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">4dp</item>
+    </style>
+
+    <style name="Text.Small">
+        <item name="android:textColor">@color/greyish</item>
+        <item name="android:textSize">@dimen/text_size_normal</item>
+    </style>
+
+    <style name="Text.Medium">
+        <item name="android:textColor">@color/greyish</item>
+        <item name="android:textSize">@dimen/text_size_normal</item>
+    </style>
+
+    <style name="Text.Large">
+        <item name="android:textColor">@color/greyish</item>
+        <item name="android:textSize">@dimen/text_size_large</item>
+    </style>
+
+    <style name="Text.XLarge">
+        <item name="android:textColor">@color/greyish</item>
+        <item name="android:textSize">@dimen/text_size_xlarge</item>
+    </style>
+
+</resources>

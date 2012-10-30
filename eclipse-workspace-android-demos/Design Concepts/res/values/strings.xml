@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Design Concepts</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_home">HomeActivity</string>
+    
+    
+    <string name="one_pixels"><b>1.</b> Pixel defined text - this is very very bad practice</string>
+    <string name="two_dips"><b>2.</b> Dip defined text - this is now the same size accross every device!</string>
+    <string name="three_bad"><b>3.</b> Absolute layouts are absolutly BAD!</string>
+    
+
+</resources>

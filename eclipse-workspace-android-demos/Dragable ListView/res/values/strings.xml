@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Custom ListView</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_add">Add</string>
+    <string name="title_activity_main">CustomListView Activity</string>
+
+</resources>

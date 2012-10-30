@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Activity Demo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="click_me">Click me!</string>
+    <string name="hello_world_two">Ahhh welcome to the second activity :)</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Activty Demo</string>
+    <string name="title_activity_two">Second Activity</string>
+
+</resources>
